@@ -1,0 +1,16 @@
+.movies {
+  padding: 24px;
+}
+.movie {
+  position: relative;
+  background-color: #000000;
+  margin-bottom: 80px;
+  padding: 24px;
+  color: #f1f1f1;
+  padding-top: 344px;
+}
+
+.movie img {
+  position: absolute;
+  top: -30px;
+}

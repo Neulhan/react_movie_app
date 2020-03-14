@@ -1,0 +1,16 @@
+.navigation {
+  display: flex;
+  padding: 24px;
+  background-color: #111;
+
+  margin-bottom: 30px;
+}
+.navigation a {
+  margin-right: 20px;
+  font-size: 27px;
+  text-decoration: none;
+  color: #f1f1f1;
+}
+span {
+  color: #f1f1f1;
+}
